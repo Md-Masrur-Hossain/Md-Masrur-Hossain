@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>* 🎓 2nd Year Computer Science & Technology Student<br>* 💻 Currently learning **Python, C++ & DSA**<br>* 🚀 Building practical projects and experimenting with new ideas<br>* 🧠 Interested in **Software Development, AI & Problem Solving**<br>* 🛠️ Currently working on **Tung-Tung — Gamified Productivity RPG**<br>* 📈 Learning, building, and improving every day<br>* 🎯 Goal: Become a strong software developer and build products that people actually use<br>
+<br><br>* 🎓 2nd Year Computer Science & Technology Student<br>* 💻 Currently learning **Python,AIML, C++ & DSA**<br>* 🚀 Building practical projects and experimenting with new ideas<br>* 🧠 Interested in **Software Development, AI & Problem Solving**<br>* 🛠️ Currently working on **Tung-Tung — Gamified Productivity RPG**<br>* 📈 Learning, building, and improving every day<br>* 🎯 Goal: Become a strong software developer and build products that people actually use<br>
 
 
 ## 🌐 Socials:
